@@ -1,24 +1,24 @@
 variable "rgname"{
 
 type = string
-default = "jenkinsRG158"
+default = "jenkinsRG"
 }
 variable "subscription_id"{
     type = string
-    default = "f978e5b6-a6e3-4219-8fdd-8e8047c63d17"
+    default = "f573030f-fc6d-45c8-93d3-c672ad58f1d6"
 }
 variable "tenant_id"{
     type = string
-    default = "1d9d0a25-f140-4b4c-b35a-8d67d09f8431"
+    default = "e5241639-df97-4738-9560-1d4ec87cfd11"
 }
 
 variable "client_secret"{
     type = string
-    default = "1~vGcRys.jc268~mJA8Vs5_4OUi4G.63kw"
+    default = "05R-5zUfavdg.uBV0_LW9CY_0rML2nb4b_"
 }
 variable "client_id"{
     type = string
-    default = "a355a6cd-43f9-4090-87b8-1b639556f4a9"
+    default = "d41135d1-c991-4d87-b077-59801159301c"
 }
 variable "location"{
 type =  string
