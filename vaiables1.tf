@@ -1,7 +1,7 @@
 variable "rgname"{
 
 type = string
-default = "jenkinsRG"
+default = "jenkinsRG23"
 }
 variable "subscription_id"{
     type = string
@@ -39,7 +39,7 @@ variable "network_interface"{
 }
 variable "storage_account"{
     type = string
-    default = "jenkinsstoragename5"
+    default = "jenkinsstoragename23"
 }
 
 variable "storage_container"{
